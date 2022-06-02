@@ -1,0 +1,229 @@
+    body {
+        background-image: url(bus.jpg);
+        background-size: cover;
+        opacity: inherit;
+        text-transform: capitalize;
+        background-position: right top;
+        background-attachment: fixed;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    #form {
+        background-color: pink;
+        height: 500px;
+        width: 700px;
+        margin: auto;
+        padding: 20px;
+        opacity: 0.7;
+    }
+    
+    #form h3 {
+        border-bottom: 2px solid red;
+        width: 210px;
+        padding: 5px;
+    }
+    
+     ::placeholder {
+        color: blueviolet;
+    }
+    
+    #input #input-group {
+        width: 300px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet;
+    }
+    
+    #input2 #input-group {
+        width: 195px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet;
+    }
+    
+    #input3 #input-group {
+        margin-left: 50px;
+    }
+    
+    #input4 #input-group {
+        width: 300px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet;
+    }
+    
+    #input4 #input-group1 {
+        width: 600px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet;
+    }
+    
+    #input6 #input-group {
+        border-bottom: 2px solid black;
+        width: 228px;
+        padding: 5px;
+    }
+    
+    #input6 #input-group {
+        width: 300px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet;
+    }
+    
+    #input #input-group {
+        width: 600px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet;
+    }
+    
+    #input5 h3 {
+        border-bottom: 2px solid red;
+        padding: 5px;
+    }
+    
+    #input #input-group {
+        width: 300px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet
+    }
+    
+    #input4 #input-group1 {
+        width: 600px;
+        margin: 5px;
+        border-top: none;
+        border-right: none;
+        outline: none;
+        background: transparent;
+        color: blueviolet;
+    }
+    
+    P {
+        text-align: center;
+    }
+    
+    .navbar ul {
+        display: flex;
+        list-style: none;
+        margin: 20px 10px;
+        text-decoration: none;
+        text-indent: 50px;
+    }
+    
+    .navbar ul li {
+        font-family: serif;
+        font-size: 1.1rem;
+        font-weight: bold;
+        padding: 10px;
+        text-decoration: none;
+    }
+    
+    .nav ul li a {
+        text-decoration: none;
+        color: white;
+        padding: 10px 25px;
+        transition: all.5s ease;
+    }
+    
+    a:hover {
+        color: red;
+        background-color: green;
+        text-decoration: none;
+    }
+    
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    /* Style all font awesome icons */
+    
+    #fa {
+        padding: 20px 10px;
+    }
+    
+    #fa {
+        padding: 20px 10px;
+        font-size: 30px;
+        width: 50px;
+        text-align: left;
+        text-decoration: none;
+        border-radius: 50%;
+        justify-content: center;
+        margin-bottom: 16px;
+    }
+    /* Add a hover effect if you want */
+    
+    .fa:hover {
+        opacity: 0.7rem;
+    }
+    /* Set a specific color for each brand */
+    /* Facebook */
+    
+    .fa-facebook {
+        background: #3B5998;
+        color: white;
+        padding: 20px 20px;
+    }
+    /* Twitter */
+    
+    .fa-twitter {
+        background: #55ACEE;
+        color: white;
+        padding: 20px 20px;
+    }
+    
+    .fa-youtube {
+        background: #e93205;
+        color: white;
+        padding: 20px 20px;
+    }
+    
+    .fa-snapchat {
+        background: #eed755;
+        color: rgb(17, 226, 62);
+        padding: 20px 20px;
+    }
+    
+    .fa-telegram {
+        background: #0c7fd6;
+        color: white;
+        padding: 20px 20px;
+    }
+    
+    .fa-instagram {
+        background: #bd0aa5;
+        color: white;
+        padding: 20px 20px;
+    }
+    
+    * {
+        box-sizing: border-box
+    }
